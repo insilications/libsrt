@@ -1,0 +1,8 @@
+libc.so.6
+libcrypto.so.1.1
+libgcc_s.so.1
+libgtest.so.1.10.0
+libgtest_main.so.1.10.0
+libm.so.6
+libpthread.so.0
+libstdc++.so.6

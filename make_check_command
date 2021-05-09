@@ -1,0 +1,2 @@
+VERBOSE=1 V=1 make %{?_smp_mflags} test || :
+ctest -V
